@@ -1,0 +1,6 @@
+rootProject.name = 'ReactNativeInstacaptureApp'
+
+include ':app'
+
+include ':instacapture'
+project(':instacapture').projectDir = new File('instacapture')
