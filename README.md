@@ -18,11 +18,10 @@ This is a React Native Module for InstaBug co.
 6-paste the instacapture into the android root folder 
 
 p.s.
+
 #import instacapture file provided using android studio import module 
 #modify the imports to be com.[your project name inside the [instacaptureModule.java]
-```
-import {NativeModules} from 'react-native';
-var ibgx = NativeModules.ibgx; 
-```
+
+
 
 please email me for further details mohammedsabryabed@gmail.com
